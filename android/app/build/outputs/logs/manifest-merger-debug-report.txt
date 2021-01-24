@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-sound] /Users/michaelzhou/Documents/rect-game/node_modules/react-native-sound/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.react:react-native:0.42.3] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/react-native-0.42.3.aar/8f00b9637b66467b7d5bc67d36e72e52/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ac9e5161057ec0c1680dbd62fbbf1236/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/91b899000136b67ea3ebf04564ba095c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/fresco-0.11.0.aar/469a498980f6f2e83c2d7422c84c1e7c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/drawee-0.11.0.aar/94fade836080aff407bef08d6c54a10d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-0.11.0.aar/ec06432365794511d276fd773b1209ff/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.11.0.aar/fd0e407ef24ac9b51cac5a914f03055a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.11.0.aar/3bf036cfd57d8a72a1c0af3f1c3e2fb5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/425a47e81861de57adbac01735ad3764/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/983874e0d5600010f3d2dce73cba8656/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/83869dd4fed92b599092c015a4d25cff/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5a6115c02d2b9acd43cf0b9c14675190/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/fbcore-0.11.0.aar/9695ddb8c396da307df10117ad809a27/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:2:5-23
+		INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.42.3] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/react-native-0.42.3.aar/8f00b9637b66467b7d5bc67d36e72e52/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.42.3] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/react-native-0.42.3.aar/8f00b9637b66467b7d5bc67d36e72e52/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:9:5-47
+INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:9:5-47
+INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:9:5-47
+MERGED from [:react-native-sound] /Users/michaelzhou/Documents/rect-game/node_modules/react-native-sound/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-sound] /Users/michaelzhou/Documents/rect-game/node_modules/react-native-sound/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.react:react-native:0.42.3] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/react-native-0.42.3.aar/8f00b9637b66467b7d5bc67d36e72e52/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.42.3] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/react-native-0.42.3.aar/8f00b9637b66467b7d5bc67d36e72e52/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ac9e5161057ec0c1680dbd62fbbf1236/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ac9e5161057ec0c1680dbd62fbbf1236/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/91b899000136b67ea3ebf04564ba095c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/91b899000136b67ea3ebf04564ba095c/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fresco:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/fresco-0.11.0.aar/469a498980f6f2e83c2d7422c84c1e7c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/fresco-0.11.0.aar/469a498980f6f2e83c2d7422c84c1e7c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/drawee-0.11.0.aar/94fade836080aff407bef08d6c54a10d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/drawee-0.11.0.aar/94fade836080aff407bef08d6c54a10d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-0.11.0.aar/ec06432365794511d276fd773b1209ff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-0.11.0.aar/ec06432365794511d276fd773b1209ff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.11.0.aar/fd0e407ef24ac9b51cac5a914f03055a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.11.0.aar/fd0e407ef24ac9b51cac5a914f03055a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.11.0.aar/3bf036cfd57d8a72a1c0af3f1c3e2fb5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.11.0.aar/3bf036cfd57d8a72a1c0af3f1c3e2fb5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.4.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/425a47e81861de57adbac01735ad3764/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/425a47e81861de57adbac01735ad3764/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/983874e0d5600010f3d2dce73cba8656/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/983874e0d5600010f3d2dce73cba8656/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/83869dd4fed92b599092c015a4d25cff/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/83869dd4fed92b599092c015a4d25cff/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/fbcore-0.11.0.aar/9695ddb8c396da307df10117ad809a27/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/fbcore-0.11.0.aar/9695ddb8c396da307df10117ad809a27/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:9:5-47
+INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:9:5-47
+	android:targetSdkVersion
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:9:15-44
+		INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:9:5-47
+		INJECTED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:11:5-28:19
+MERGED from [com.facebook.react:react-native:0.42.3] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/react-native-0.42.3.aar/8f00b9637b66467b7d5bc67d36e72e52/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.42.3] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/react-native-0.42.3.aar/8f00b9637b66467b7d5bc67d36e72e52/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ac9e5161057ec0c1680dbd62fbbf1236/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ac9e5161057ec0c1680dbd62fbbf1236/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/425a47e81861de57adbac01735ad3764/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/425a47e81861de57adbac01735ad3764/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/83869dd4fed92b599092c015a4d25cff/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/83869dd4fed92b599092c015a4d25cff/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5a6115c02d2b9acd43cf0b9c14675190/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/michaelzhou/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5a6115c02d2b9acd43cf0b9c14675190/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:14:7-39
+	android:icon
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:15:7-41
+	android:allowBackup
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:13:7-33
+	android:theme
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:16:7-38
+	android:name
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:12:7-38
+activity#com.game.MainActivity
+ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:17:7-26:18
+	android:label
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:24:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:27:7-84
+	android:name
+		ADDED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:27:17-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/michaelzhou/Documents/rect-game/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
